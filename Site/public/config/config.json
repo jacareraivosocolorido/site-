@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2770006841781A6927D75Cdc057e145867145239",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2770006841781A6927D75Cdc057e145867145239",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "monkeyful",
+  "SYMBOL": "mk",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/monkeyful-v2",
+  "SHOW_BACKGROUND": true
+}
